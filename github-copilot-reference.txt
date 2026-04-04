@@ -10,3 +10,7 @@ https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/doc
 Microsoft Ai Agents Adoption
 
 https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/
+
+Copilot Studio Testing Framework
+
+https://github.com/microsoft/CopilotStudioSamples/blob/main/testing/README.md
