@@ -14,3 +14,7 @@ https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/
 Copilot Studio Testing Framework
 
 https://github.com/microsoft/CopilotStudioSamples/blob/main/testing/README.md
+
+Security development lifecycle practics
+
+https://www.microsoft.com/en-us/securityengineering/sdl/practices
