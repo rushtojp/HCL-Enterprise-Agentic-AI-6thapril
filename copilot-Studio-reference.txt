@@ -3,9 +3,13 @@ Copilot studio agent usage estimator
 
 https://microsoft.github.io/copilot-studio-estimator/
 
-Github Copilot Studio licensing Guide
+ Copilot Studio licensing Guide
 
 https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/microsoft-365/Microsoft-Copilot-Studio-Licensing-Guide-April-2026.pdf
+
+Microsoft agent factory - whitepaper
+
+https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/ai/The-Microsoft-Agent-Factory-white-paper-Feb-2026.pdf
 
 Microsoft Ai Agents Adoption
 
