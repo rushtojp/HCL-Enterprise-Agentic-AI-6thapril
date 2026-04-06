@@ -11,6 +11,10 @@ Microsoft agent factory - whitepaper
 
 https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/ai/The-Microsoft-Agent-Factory-white-paper-Feb-2026.pdf
 
+How to build agents with Microsoft - whitepaper
+
+https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/ai/The-Microsoft-Agent-Factory-white-paper-Feb-2026.pdf
+
 Microsoft Ai Agents Adoption
 
 https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/
