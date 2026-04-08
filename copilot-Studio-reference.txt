@@ -1,3 +1,7 @@
+Microsoft studion agent solution ideas
+
+https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
+
 Azure AI Architecture Center
 
 https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
