@@ -1,3 +1,7 @@
+Azure AI Architecture Center
+
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
+
 Microsoft AI Decision Framework
 https://microsoft.github.io/Microsoft-AI-Decision-Framework/
 
