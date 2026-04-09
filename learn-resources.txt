@@ -3,3 +3,7 @@ MS Agent Labs
 https://microsoftlearning.github.io/mslearn-ai-agents/
 
 https://learn.microsoft.com/en-us/training/paths/agents-online-workshop/
+
+Microsoft agent 365
+
+https://www.microsoft.com/en-us/microsoft-agent-365#demo
