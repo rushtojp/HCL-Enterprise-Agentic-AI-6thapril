@@ -1,3 +1,7 @@
+Microsoft Agent365 Resources
+
+https://learn.microsoft.com/en-us/microsoft-agent-365/overview
+
 Microsoft studion agent solution ideas
 
 https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
