@@ -5,3 +5,9 @@ https://microsoft.github.io/agent-academy/operative/01-get-started/
 Multi-agentic workshop
 
 https://github.com/warnov/multi-agentic-workshop
+
+https://github.com/microsoft/CopilotStudioSamples/blob/main/authoring/solutions/account-contact-lookup/README.md
+
+https://github.com/microsoft/CopilotStudioSamples/
+
+
