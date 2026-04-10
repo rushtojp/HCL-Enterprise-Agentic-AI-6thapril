@@ -1,7 +1,6 @@
 MS copilot studio learn course
 
-https://learn.microsoft.com/en-us/users/me/achievements?redeem=9P7JZY
-
+https://learn.microsoft.com/en-us/training/courses/ms-4022
 
 MS Agent Labs
 
