@@ -1,3 +1,7 @@
+How to connect to microsoft foundry agent
+
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/add-agent-foundry-agent
+
 Microsoft Agent365 Resources
 
 https://learn.microsoft.com/en-us/microsoft-agent-365/overview
